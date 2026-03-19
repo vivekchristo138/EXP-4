@@ -46,18 +46,18 @@ Bridge rectifier with filter:
 
 <img width="1519" height="883" alt="Screenshot 2026-03-19 230522" src="https://github.com/user-attachments/assets/1c8e2ba8-dd89-42dd-af7d-efc68362283e" />
 
-TABULAR COLUMN
+
 Rectifier without filter
 <img width="1533" height="847" alt="Screenshot 2026-03-19 230328" src="https://github.com/user-attachments/assets/ad0bfcef-13df-4bdc-99ee-58989ce8f829" />
 
+Rectifier with filter
+
+<img width="1519" height="883" alt="Screenshot 2026-03-19 230522" src="https://github.com/user-attachments/assets/ee6472dc-0483-4085-914d-1f69e4b752da" />
 
 TABULAR COLUMN
 ![4-4](https://github.com/user-attachments/assets/177d86eb-f1e1-49da-ba2e-d843768e3b23)
 ![4-5](https://github.com/user-attachments/assets/99af6dcb-5f88-4679-9d79-ea5e5e611304)
 
-Rectifier with filter
-
-<img width="1519" height="883" alt="Screenshot 2026-03-19 230522" src="https://github.com/user-attachments/assets/ee6472dc-0483-4085-914d-1f69e4b752da" />
 
 
 WAVEFORM:
